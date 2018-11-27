@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">OnlineEats</string>
+    <string name="slogan">We will bring restaurant freshness to your place</string>
+    <string name="title_activity_email_password_login">Sign in with email and password</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot">Forgot</string>
+    <string name="completeSignup">Complete Sign Up</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="cellNumber">Cell Number</string>
+    <string name="registration">RESGISTRATION</string>
+    <string name="sendEmail">SEND EMAIL</string>
+    <string name="enterEmailID">Enter your email id here</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="cart_total">Total: </string>
+    <string name="cart_button">Place Order</string>
+    <string name="title_activity_maps">My Map</string>
+
+
+</resources>
